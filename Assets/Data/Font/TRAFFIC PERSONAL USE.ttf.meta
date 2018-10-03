@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 4e35fdc6040ebbe49852ab5c2cd829d1
+timeCreated: 1526112018
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: TRAFFIC PERSONAL USE
+  fontNames:
+  - TRAFFIC PERSONAL USE
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
